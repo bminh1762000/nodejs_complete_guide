@@ -21,3 +21,12 @@
 .form-control textarea:focus {
   outline-color: #00695c;
 }
+
+.form-control input.invalid{
+  border-color : #e44141;
+}
+
+.form-control span{
+  color : #e44141;
+  font-style: italic;
+}
